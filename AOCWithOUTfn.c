@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<math.h>
+
 int main()
 {
     float i,r,pi=3.14;
