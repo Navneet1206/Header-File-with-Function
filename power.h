@@ -9,9 +9,5 @@ int power(int a, int b)
 
     }
 
-
-
-        
-
     return pro;
 }
